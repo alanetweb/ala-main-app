@@ -1,0 +1,24 @@
+[debug] [2020-04-30T18:00:31.706Z] ----------------------------------------------------------------------
+[debug] [2020-04-30T18:00:31.708Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Yubnob\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js list
+[debug] [2020-04-30T18:00:31.708Z] CLI Version:   7.0.1
+[debug] [2020-04-30T18:00:31.709Z] Platform:      win32
+[debug] [2020-04-30T18:00:31.709Z] Node Version:  v12.16.2
+[debug] [2020-04-30T18:00:31.709Z] Time:          Thu Apr 30 2020 13:00:31 GMT-0500 (Central Daylight Time)
+[debug] [2020-04-30T18:00:31.709Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2020-04-30T18:00:31.723Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-04-30T18:00:31.724Z] > authorizing via signed-in user
+[debug] [2020-04-30T18:00:31.725Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2020-04-30T18:00:31.726Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2020-04-30T18:00:32.229Z] <<< HTTP RESPONSE 200
+[debug] [2020-04-30T18:00:32.238Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects  
+ 
+[debug] [2020-04-30T18:00:32.530Z] Error: certificate has expired
+    at TLSSocket.onConnectSecure (_tls_wrap.js:1474:34)
+    at TLSSocket.emit (events.js:310:20)
+    at TLSSocket.EventEmitter.emit (domain.js:482:12)
+    at TLSSocket._finishInit (_tls_wrap.js:917:8)
+    at TLSWrap.ssl.onhandshakedone (_tls_wrap.js:687:12)
+[error] 
+[error] Error: Server Error. certificate has expired
