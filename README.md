@@ -1,4 +1,5 @@
 # David Was here
+#But he soon left to seek some coffee from a shop down the street. The bell jingled as he entered. Approaching the counter, he noticed a small gray man huddled over a steaming ceramic cup. It was the cup that caught his aattention. Behind the man's gnarled fingers, he could see a graphic of a...  
 
 # Ionic 5 Full App PRO Version
 The most advanced and complete Mobile & PWA starter app template
