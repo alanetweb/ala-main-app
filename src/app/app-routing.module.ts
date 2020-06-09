@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
 const routes: Routes = [
-  { path: '', redirectTo: '/walkthrough', pathMatch: 'full' },
+  // {  path: '', redirectTo: '/walkthrough', pathMatch: 'full' },
   { path: 'walkthrough', loadChildren: () => import('./walkthrough/walkthrough.module').then(m => m.WalkthroughPageModule) },
   { path: 'getting-started', loadChildren: () => import('./getting-started/getting-started.module').then(m => m.GettingStartedPageModule) },
   { path: 'auth/login', loadChildren: () => import('./login/login.module').then(m => m.LoginPageModule) },
@@ -19,6 +19,7 @@ const routes: Routes = [
   { path: 'firebase', loadChildren: () => import('./firebase/firebase-integration.module').then(m => m.FirebaseIntegrationModule) },
   { path: 'maps', loadChildren: () => import('./maps/maps.module').then(m => m.MapsPageModule) },
   { path: 'video-playlist', loadChildren: () => import('./video-playlist/video-playlist.module').then(m => m.VideoPlaylistPageModule) },
+  { path: 'ala-webinars', loadChildren: () => import('./alawebinars/alawebinars.module').then( m => m.AlawebinarsPageModule)}, 
   { path: '**', redirectTo: 'page-not-found' }
 ];
 @NgModule({
