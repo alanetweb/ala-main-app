@@ -1,5 +1,5 @@
 # David Was here
-But he soon left to seek some coffee from a shop down the street. The bell jingled as he entered. Approaching the counter, he noticed a small gray man huddled over a steaming ceramic cup. It was the cup that caught his attention. Behind the man's gnarled fingers, he could see a graphic. It was the seal for the Commonwealth of Australia. The man's fingers were covering the kangaroo but the ostrich on the right was recognizable. Australia, the land down under, put another shrimp on the barbie. This had to be the man they were looking for.
+But he soon left to seek some coffee from a shop down the street. The bell jingled as he entered. Approaching the counter, he noticed a small gray man huddled over a steaming ceramic cup. It was the cup that caught his attention. Behind the man's gnarled fingers, he could see a graphic. It was the seal for the Commonwealth of Australia. The man's fingers were covering the kangaroo but the ostrich on the right was recognizable. Australia, the land down under, put another shrimp on the barbie. This had to be the man they were looking for. David walked over to the table.
 
 # Ionic 5 Full App PRO Version
 The most advanced and complete Mobile & PWA starter app template
